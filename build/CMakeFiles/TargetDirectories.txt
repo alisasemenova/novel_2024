@@ -1,0 +1,2 @@
+C:/Users/VIKA/Desktop/novel2024/build/CMakeFiles/edit_cache.dir
+C:/Users/VIKA/Desktop/novel2024/build/CMakeFiles/rebuild_cache.dir
